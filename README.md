@@ -20,9 +20,9 @@ Para instalar o aplicativo, siga estas etapas:
 
   
 
-1. Clone o repositório: `git clone https://github.com/seuusuario/fluxo-de-caixa.git` 
+1. Clone o repositório: `git clone https://github.com/wladbi/fluxo-de-caixa.git` 
 
-2. Navegue até o diretório do projeto: `cd fluxo-de-caixa` 
+2. Navegue até o diretório do projeto: `cd Projeto-Piloto-Teste-GFT/` 
 
 3. Instale as dependências: `pip install -r requirements.txt` 
 
@@ -77,7 +77,7 @@ Aqui estão algumas sugestões de testes que você pode realizar para avaliar o 
 
   
 
-O código Python é um aplicativo de desktop simples criado usando o Tkinter, que é uma biblioteca padrão do Python para a criação de interfaces gráficas do usuário (GUI). Não parece estar explicitamente baseado em um framework de arquitetura de software específico como SOLID, CLEAN ou Hexagonal. Pois é um projeto muito simples para ser encaixado em um desses paradigmas. 
+O código Python 3.12 é um aplicativo de desktop simples criado usando o Tkinter, que é uma biblioteca padrão do Python para a criação de interfaces gráficas do usuário (GUI). Não parece estar explicitamente baseado em um framework de arquitetura de software específico como SOLID, CLEAN ou Hexagonal. Pois é um projeto muito simples para ser encaixado em um desses paradigmas. 
 
   
 
