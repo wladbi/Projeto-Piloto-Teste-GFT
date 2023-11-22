@@ -30,11 +30,12 @@ Para instalar o aplicativo, siga estas etapas:
 
 ## Uso 
 
-  
+Versão Python 3.12
+Versão Pycharm 2023.2
 
-Para iniciar o aplicativo, execute o seguinte comando no diretório do projeto: `python main.py` 
+Para iniciar o aplicativo, execute o seguinte comando no diretório do projeto: 
 
-  
+python3 https://github.com/wladbi/Projeto-Piloto-Teste-GFT/blob/main/projetopilotodesafioGFT.py
 
 ## Testes 
 
