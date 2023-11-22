@@ -26,6 +26,7 @@ Para instalar o aplicativo, siga estas etapas:
 
 3. Instale as dependências: `pip install -r requirements.txt` 
 
+4. Ignorar arquivo setup para esta versão!!
   
 
 ## Uso 
